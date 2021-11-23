@@ -1,4 +1,4 @@
 # Simple Cuboid and Cube Animation Using Blender
  A simple cuboid pushing a row of cubes to the edge of plane
 
-![image](https://user-images.githubusercontent.com/84474101/143061737-94a032b5-04e6-4fe2-a613-28a414d1fcf1.png)
+![Cuboid and Cube gif](https://user-images.githubusercontent.com/84474101/143061995-631df9a7-f2ad-437a-ba63-718394bd3784.gif)
